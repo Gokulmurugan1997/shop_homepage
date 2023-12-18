@@ -1,6 +1,7 @@
 
 import React,{useState} from "react";
-import Navbar from "./Component/navbar";
+import Navbar from "./Component/Navbar";
+
 import Card from "./Component/Card";
 
 function App() {
