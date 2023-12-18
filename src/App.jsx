@@ -26,6 +26,10 @@ let product = [
     name:"Fan",
     price:10
   },
+  {
+    name:"Heater",
+    price:10
+  },
 ]
 
   return <>
